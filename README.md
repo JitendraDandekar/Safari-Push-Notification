@@ -1,5 +1,5 @@
 # Safari-Push-Notification
-You can send notification to safari
+Add token, payload, cert, key and topic in send_push.py file then you can send notification to safari
 
 ## Configure Safari Push Notification
 Use following link to setup safari push notification
